@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	background-color: #402F37;
+	height: 1029px;
+	width: 970px;
+}
+.header{
+	display:inline;
+}
+.container .main_content .image{
+	width: 450px;
+	height: 300px;
+}

@@ -1,0 +1,201 @@
+.container{
+	width: 850px;
+	height: 1125px;
+	border: 1px solid black;
+	background-image: radial-gradient(#402F37, #6F5964);
+}
+
+.topheader{
+	height:50px;
+	width: 850px;
+	border: 2px solid black;
+	background-image: linear-gradient(-90deg, white, #9B9AA4);
+	display: inline-block;
+	padding-top: 10px;
+
+}
+	.topheader h1{
+		display:inline-block;
+		vertical-align: middle;
+		padding-right: 230px;
+		margin-top: -1px;
+		text-indent: 10px
+	}
+
+	.topheader h2{
+		display:inline-block;
+		vertical-align: middle;
+		padding-left: 200px;
+		margin-top: -4px;
+
+
+	}
+
+.header{
+	width: 850px;
+	height: 235px;
+	
+	display: inline-block;
+}
+	
+	.header img{
+		width:350px;
+		height:225px;
+		margin-left: 15px;
+		border: 5px solid lightgrey;
+		display:inline-block;
+		margin-right: 40px;
+}
+
+.about{
+	width:375px;
+	height:235px;
+	background-color: lightgrey;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 0px auto;
+}
+
+.about h3{
+	border: 1px solid darkgrey;
+	width:373px;
+	height:30px;
+	margin-top: -1px;
+	text-indent: 5px;
+	background-image: linear-gradient(-90deg, white, #9B9AA4);	
+	color: white;
+}
+
+.about p{
+	font-size: 10pt;
+	margin-left: 5px;
+	margin-right:5px;
+}	
+
+.about a{
+	text-indent: 5px;
+	color: black;
+}
+
+.lamode{
+	display: inline-block;
+	width:240px;
+	height:705px;
+	vertical-align: middle;
+	
+	padding-top: -20px;
+	margin-left: 18px;
+	background-color: lightgrey;
+	margin-top: 25px;
+	
+	padding-right: 10px;
+
+}
+
+.familycontacts{
+	display: inline-block;
+	width:240px;
+	height:705px;
+	vertical-align: middle;
+	
+	padding-top: -20px;
+	margin-left: 10px;
+	background-color: lightgrey;
+	margin-top: 25px;
+	
+	padding-right: 10px;
+}
+
+.fiveEleven{
+	display: inline-block;
+	width:248px;
+	height:705px;
+	vertical-align: middle;
+	
+	padding-top: -20px;
+	margin-left: 10px;
+	background-color: lightgrey;
+	font-size: 10pt;
+	margin-top: 25px;
+	font-weight: normal;
+	
+}	
+
+
+
+.fiveEleven p{
+	
+	padding-left: 10px;
+}
+
+.lamode p{
+	padding-left: 10px;
+ }
+
+.familycontacts p{
+	padding-left: 10px;
+}
+
+.fiveEleven img{
+	width:248px;
+}
+
+.lamode img{
+	width:248px;
+}
+
+.familycontacts img{
+	width:248px;
+}
+.sheader{
+	border:1px solid darkgrey;
+	width: 248px;
+	background-image: linear-gradient(-90deg, white, #9B9AA4);
+	color: white;
+	text-indent: 10px;
+}
+
+#cover a{
+	text-align: center;
+	border:1px solid black;
+	text-decoration: none;
+	margin-left: 85px;
+	border-radius: 5px;
+	background-color: green;
+	color:white;
+
+}
+.technologies img{
+	width: 40px;
+}
+.technologies h3{
+	width:248px;
+	height:30px;
+	background-image: linear-gradient(-90deg, white, #9B9AA4);
+	text-indent: 10px;
+	color: white;
+}
+.footer h4{
+	text-align: center;
+	
+
+
+
+
+}
+.social img{
+	width:25px;
+	margin-top: -10px;
+	padding-right: 3px;
+
+}
+.social p a{
+	text-align: center;
+	color: black;
+
+}
+
+.footer{
+	background-image: linear-gradient(-90deg, white, #9B9AA4);
+	text-align: center;
+	margin-top: -10px;
